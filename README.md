@@ -34,21 +34,22 @@ My entrepreneurial work has strengthened my ability to **lead with ownership**, 
 
 ### 🚀 Featured Projects
 
-#### 🧩 [LearnAI MVP](https://github.com/alaaeldin-abdelmonem/learnai-mvp)
+#### 🧩 [oracle23ai-vector-wrapper](https://github.com/AlaaEldin-AbdelMonem/oracle23ai-vector-wrapper)
 
-*Gamified AI Learning Platform built on Oracle 23ai*  
+*Best Approach to share Embeddign Model on Oracle db 23ai accross all database*  
 
-- Features adaptive tutoring, predictive review nudges, and focus tracking  
-- Built using Oracle APEX, PL/SQL, and integrated LLM APIs for dynamic learning content  
+-Centralized AI Model Wrapper Package
+Create a centralized AI model management layer in a dedicated schema (AI) that provides reusable embedding and vector operations to all PM Copilot application schemas. 
 
-#### 🧠 [Oracle AI Lab](https://github.com/alaaeldin-abdelmonem/oracle-ai-lab)
+
+#### 🧠Soon>>> [Oracle AI Lab](https://github.com/alaaeldin-abdelmonem/oracle-ai-lab)
 
 *End-to-end AI experiments inside Oracle 23ai*  
 
 - Demos of **RAG**, **Vector Search**, and **ONNX model loading**  
 - Combines PL/SQL and Python LangChain for integrated inference workflows  
 
-#### 📘 [PM GenAI Framework](https://github.com/alaaeldin-abdelmonem/pm-genai-framework)
+#### 📘 [PM Gen AI Framework](https://github.com/alaaeldin-abdelmonem/pm-genai-framework)
 
 *AI-powered Product Management Artifact Generator*  
 
