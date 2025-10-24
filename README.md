@@ -56,10 +56,10 @@ Create a centralized AI model management layer in a dedicated schema (AI) that p
 - Generates PRDs, user stories, SWOT, and other PM assets using LLMs  
 - Includes configuration-driven prompt templates, PL/SQL packages, and APEX pages  
 
- #### 📘 docker-windows-d-drive (https://github.com/alaaeldin-abdelmonem/docker-windows-d-drive)
+ #### 📘 [docker-windows-d-drive](https://github.com/alaaeldin-abdelmonem/docker-windows-d-drive)
  - Automatically install Docker Desktop on your D: drive (or any non-system drive) on Windows
  
- #### 📘 oracle23ai-vector-wrapper(https://github.com/alaaeldin-abdelmonem/oracle23ai-vector-wrapper)
+ #### 📘 [oracle23ai-vector-wrapper](https://github.com/alaaeldin-abdelmonem/oracle23ai-vector-wrapper)
   - Centralized ONNX embedding model wrapper for Oracle Database 23ai - Single AI model serves multiple schemas
 
 ### 🌍 Connect With Me
