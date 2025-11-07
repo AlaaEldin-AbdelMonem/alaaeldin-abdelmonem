@@ -34,27 +34,22 @@ My entrepreneurial work has strengthened my ability to **lead with ownership**, 
 
 ### 🚀 Featured Projects
 
+#### 📘 [end-to-end-ai-architecture](https://github.com/end-to-end-ai-architecture)
+*A comprehensive repository documenting end-to-end AI architecture — from data pipelines and model orchestration to GenAI deployment, governance, and enterprise integration.*  
+
+#### 🧩 [Oracle-ebsR12-Governed-AI](https://github.com/AlaaEldin-AbdelMonem/Oracle-ebsR12-Governed-AI)
+*AI-Enhanced Oracle E-Business Suite R12.x with Governed RAG Architecture
+Built on Oracle APEX 23ai + Oracle Database 23ai+ with On-Prem LLM Integration*
+
+#### 🧩 [Oracle-Dynamic-Configuration-Architecture](https://github.com/AlaaEldin-AbdelMonem/Oracle-Dynamic-Configuration-Architecture)
+*A governed, hierarchical configuration model for multi-tenant Oracle SaaS solutions — enabling runtime flexibility, auditability, and secure parameter management.*
+
 #### 🧩 [oracle23ai-vector-wrapper](https://github.com/AlaaEldin-AbdelMonem/oracle23ai-vector-wrapper)
 
 *Best Approach to share Embeddign Model on Oracle db 23ai accross all database*  
-
 -Centralized AI Model Wrapper Package
 Create a centralized AI model management layer in a dedicated schema (AI) that provides reusable embedding and vector operations to all PM Copilot application schemas. 
 
-
-#### 🧠Soon>>> [Oracle AI Lab](https://github.com/alaaeldin-abdelmonem/oracle-ai-lab)
-
-*End-to-end AI experiments inside Oracle 23ai*  
-
-- Demos of **RAG**, **Vector Search**, and **ONNX model loading**  
-- Combines PL/SQL and Python LangChain for integrated inference workflows  
-
-#### 📘 [PM Gen AI Framework](https://github.com/alaaeldin-abdelmonem/pm-genai-framework) soon
-
-*AI-powered Product Management Artifact Generator*  
-
-- Generates PRDs, user stories, SWOT, and other PM assets using LLMs  
-- Includes configuration-driven prompt templates, PL/SQL packages, and APEX pages  
 
  #### 📘 [docker-windows-d-drive](https://github.com/alaaeldin-abdelmonem/docker-windows-d-drive)
  - Automatically install Docker Desktop on your D: drive (or any non-system drive) on Windows
