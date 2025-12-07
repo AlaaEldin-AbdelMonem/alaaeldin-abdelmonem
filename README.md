@@ -34,7 +34,7 @@ My entrepreneurial work has strengthened my ability to **lead with ownership**, 
 
 ### 🚀 Featured Projects
 
-#### 📘[ [oracle-apex-ai-assistant](https://github.com/oracle-apex-ai-assistant)](https://github.com/AlaaEldin-AbdelMonem/oracle-apex-ai-assistant)
+#### 📘[ [oracle-apex-ai-assistant](https://github.com/AlaaEldin-AbdelMonem/oracle-apex-ai-assistant)
 * Low-Code AI Assistant inferace ,RAG (Doc+DB ), Vector empeddings,Multi-vector,support multi-vendor, mulitple chunking,Governance features, security controls.  
 
 
