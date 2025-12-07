@@ -34,6 +34,11 @@ My entrepreneurial work has strengthened my ability to **lead with ownership**, 
 
 ### 🚀 Featured Projects
 
+#### 📘 [oracle-apex-ai-assistant](https://github.com/oracle-apex-ai-assistant)
+* Low-Code AI Assistant inferace ,RAG (Doc+DB ), Vector empeddings,Multi-vector,support multi-vendor, mulitple chunking,Governance features, security controls.  
+
+
+
 #### 📘 [end-to-end-ai-architecture](https://github.com/end-to-end-ai-architecture)
 *A comprehensive repository documenting end-to-end AI architecture — from data pipelines and model orchestration to GenAI deployment, governance, and enterprise integration.*  
 
