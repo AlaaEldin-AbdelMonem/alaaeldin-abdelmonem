@@ -44,12 +44,12 @@ My entrepreneurial work has strengthened my ability to **lead with ownership**, 
 
 #### 🧩 [Oracle-ebsR12-Governed-AI](https://github.com/AlaaEldin-AbdelMonem/Oracle-ebsR12-Governed-AI)
 *AI-Enhanced Oracle E-Business Suite R12.x with Governed RAG Architecture
-Built on Oracle APEX 23ai + Oracle Database 23ai+ with On-Prem LLM Integration*
+Built on Oracle APEX 26ai + Oracle Database 23ai+ with On-Prem LLM Integration*
 
 #### 🧩 [Oracle-Dynamic-Configuration-Architecture](https://github.com/AlaaEldin-AbdelMonem/Oracle-Dynamic-Configuration-Architecture)
 *A governed, hierarchical configuration model for multi-tenant Oracle SaaS solutions — enabling runtime flexibility, auditability, and secure parameter management.*
 
-#### 🧩 [oracle23ai-vector-wrapper](https://github.com/AlaaEldin-AbdelMonem/oracle23ai-vector-wrapper)
+#### 🧩 [oracledb-ai-vector-wrapper](https://github.com/AlaaEldin-AbdelMonem/oracle-db-ai-vector-wrapper)
 
 *Best Approach to share Embeddign Model on Oracle db 23ai accross all database*  
 -Centralized AI Model Wrapper Package
@@ -60,7 +60,7 @@ Create a centralized AI model management layer in a dedicated schema (AI) that p
  - Automatically install Docker Desktop on your D: drive (or any non-system drive) on Windows
  
  #### 📘 [oracle db ai-vector-wrapper](https://github.com/alaaeldin-abdelmonem/oracle-db-ai-vector-wrapper)
-  - Centralized ONNX embedding model wrapper for Oracle Database 23ai - Single AI model serves multiple schemas
+  - Centralized ONNX embedding model wrapper for Oracle Database 26ai - Single AI model serves multiple schemas
 
 ### 🌍 Connect With Me
 
