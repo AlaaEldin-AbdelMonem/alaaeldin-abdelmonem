@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-Aspiring **AI Product Manager** and **Technical Product Architect** with 22+ years in **Enterprise Business Applications**, **Oracle ERP**, **LLMs**, and **Vector Search**.  
+Aspiring **Product Manager** and **Technical Product Architect** with 22+ years in **Enterprise Business Applications**, **Oracle ERP**, **LLMs**, and **Vector Search**.  
 
 I’ve built early-stage **AI prototypes** that blend business strategy with deep technical architecture—leveraging **Oracle 23ai**, **APEX**, **Python**, and **LangChain** to create real enterprise impact.  
 
